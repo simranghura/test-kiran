@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tempoFeedHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <tempoFeed>
+        <uuid>e2e91444-ef7e-4e34-83be-61306bffa4f6</uuid>
+        <name>Feed-2</name>
+        <description>Feed-2 for test</description>
+        <showInCatalog>true</showInCatalog>
+        <systemFeed>false</systemFeed>
+    </tempoFeed>
+    <roleMap/>
+</tempoFeedHaul>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webApiHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <webApi a:uuid="2752a447-d17d-4768-83f3-075d35f287e6" name="WebAPI-2">
+        <a:description>WebAPI-2 for test</a:description>
+        <a:expression></a:expression>
+        <a:urlAlias>2vrKEw</a:urlAlias>
+        <a:httpMethod>GET</a:httpMethod>
+        <a:system>false</a:system>
+    </webApi>
+    <roleMap/>
+</webApiHaul>

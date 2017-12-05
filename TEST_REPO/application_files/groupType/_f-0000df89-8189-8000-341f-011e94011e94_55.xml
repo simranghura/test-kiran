@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<groupTypeHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <groupType>
+        <name>GroupType-2</name>
+        <uuid>_f-0000df89-8189-8000-341f-011e94011e94_55</uuid>
+        <description>GroupType-2 for test</description>
+        <attributes/>
+    </groupType>
+</groupTypeHaul>

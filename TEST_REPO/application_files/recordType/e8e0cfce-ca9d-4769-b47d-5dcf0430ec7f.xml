@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recordTypeHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>ecb52dd3-c212-4bfa-af22-cbec7b93d4f4</versionUuid>
+    <recordType a:uuid="e8e0cfce-ca9d-4769-b47d-5dcf0430ec7f" name="Record-1">
+        <a:pluralName>Record-1</a:pluralName>
+        <a:description>Record-1</a:description>
+        <a:urlStub>VcDOsg</a:urlStub>
+        <a:listViewTemplateExpr></a:listViewTemplateExpr>
+        <a:detailViewCfg>
+            <a:nameExpr>="Summary"</a:nameExpr>
+            <a:uiExpr></a:uiExpr>
+            <a:visibilityExpr>=true()</a:visibilityExpr>
+            <a:urlStub>summary</a:urlStub>
+            <a:headerExpr></a:headerExpr>
+        </a:detailViewCfg>
+        <a:isSystem>false</a:isSystem>
+        <a:dataSrcExpr></a:dataSrcExpr>
+        <a:facetsListExpr></a:facetsListExpr>
+        <a:titleExpr></a:titleExpr>
+        <a:defaultFiltersExpr></a:defaultFiltersExpr>
+        <a:layoutType>GRID</a:layoutType>
+        <a:security>16383</a:security>
+        <a:hideLatestNews>false</a:hideLatestNews>
+    </recordType>
+    <roleMap/>
+    <history>
+        <historyInfo versionUuid="ecb52dd3-c212-4bfa-af22-cbec7b93d4f4"/>
+    </history>
+</recordTypeHaul>

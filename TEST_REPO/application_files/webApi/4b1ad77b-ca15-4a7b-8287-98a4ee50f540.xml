@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webApiHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <webApi a:uuid="4b1ad77b-ca15-4a7b-8287-98a4ee50f540" name="WebAPI-1">
+        <a:description>WebAPI-1 for test</a:description>
+        <a:expression></a:expression>
+        <a:urlAlias>per3Eg</a:urlAlias>
+        <a:httpMethod>GET</a:httpMethod>
+        <a:system>false</a:system>
+    </webApi>
+    <roleMap/>
+</webApiHaul>
